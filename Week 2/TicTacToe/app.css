@@ -11,9 +11,6 @@ td {
     height: 100px;
 }
 
-td:hover {
-    border: 1px solid grey;
-}
 
 .across {
     border-left: 1px solid black;
